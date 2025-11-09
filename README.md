@@ -24,8 +24,11 @@ Sales Funnel:
 The dataset contains user event records with the following columns:
 
 EventName: Name of the event performed.
+
 DeviceIDHash: Unique user identifier
+
 EventTimestamp: Event timestamp
+
 ExpId: Experimental group (246, 247: control; 248: test)
 
 ### 🛠️ Methodology
